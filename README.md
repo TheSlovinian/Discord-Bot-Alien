@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to The Alien Discord Webhook.
 
-You can use the [editor on GitHub](https://github.com/TheSlovinian/Discord-Bot-Alien-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I just made this for a webhook
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Stop viewing this.
 
-### Markdown
+### I swear stop!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+WHY TF ARE YOU STILL READING?
 
-```markdown
-Syntax highlighted code block
+Stop.
 
-# Header 1
-## Header 2
-### Header 3
+STOOP!
 
-- Bulleted
-- List
+I SAID STOP!
+No.
 
-1. Numbered
-2. List
+Go away.
 
-**Bold** and _Italic_ and `Code` text
+Fuck you.
 
-[Link](url) and ![Image](src)
-```
+My dad owns minecraft I'll ban you!!1!11!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+OOF
 
-### Jekyll Themes
+Bye.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheSlovinian/Discord-Bot-Alien-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I SAID BYE
+***###                  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAaaAAAAAaaaaaaaAaAAAAAAAAAAaAaaaaaaaaaaaA
